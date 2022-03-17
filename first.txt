@@ -1,1 +1,23 @@
+hello world everthing is fine
+:w
+:q
+
+:W
+:w
+:q
+:q!
+:
+
+
+
+
+
+
+
+
+
+:Q!
+
+`
+
 this is first file
